@@ -2,5 +2,5 @@
 4leg robot
 Open source
 
-##Software
+## Software
 https://github.com/Hara-kcct/spoton_teensy
