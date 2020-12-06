@@ -1,5 +1,5 @@
 # 4leg-project
-Open source 4leg robot 
+4leg robot 
 
 <img src="https://user-images.githubusercontent.com/38370926/99046241-d4008e00-25d5-11eb-8c8f-a286f377dfd5.jpg">
 
